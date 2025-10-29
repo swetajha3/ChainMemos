@@ -53,6 +53,7 @@ Deploy the contract on Celo Sepolia Testnet (or any EVM-compatible network).
 Use the functions:
 
 addMemo("Your text here") → to store a memo.
+<img width="1920" height="1020" alt="Screenshot 2025-10-29 231617" src="https://github.com/user-attachments/assets/aae4252d-2475-47bb-9c15-bc73131a5d2d" />
 
 getMemo(index) → to read a specific memo.
 
